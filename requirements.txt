@@ -7,6 +7,8 @@ catboost
 xgboost
 Flask
 librosa
+imagelib
+gtl2via
 
 
 #-e .
